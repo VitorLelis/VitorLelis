@@ -1,5 +1,7 @@
 # Hello, I'm Vitor
 
+*[Linkedin](https://www.linkedin.com/in/vitor-lelis-71361420a/)*
+
 <linkedin email>
 
   ## About me
@@ -14,8 +16,6 @@
   I'm an Mentor in Coder Dojo Braga where I help kids around 7 and 14 years old to learn how to programm
   
   I'm also a student athlete for the University of Minho in the swimming team
-  
-  *[Linkedin](https://www.linkedin.com/in/vitor-lelis-71361420a/)*
   
   ## Programming Skills
   + Python
