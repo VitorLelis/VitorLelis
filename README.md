@@ -15,7 +15,7 @@
   
   I'm also a student athlete for the University of Minho in the swimming team
   
-  [Linkedin] (https://www.linkedin.com/in/vitor-lelis-71361420a/)
+  *[Linkedin](https://www.linkedin.com/in/vitor-lelis-71361420a/)*
   
   ## Programming Skills
   + Python
