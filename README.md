@@ -1,8 +1,6 @@
 # Hello, I'm Vitor
 
-*[Linkedin](https://www.linkedin.com/in/vitor-lelis-71361420a/)*
-
-<linkedin email>
+*[LinkedIn](https://www.linkedin.com/in/vitor-lelis-71361420a/)*
 
   ## About me
   Born and raised in Brazil where I lived for 20 years
