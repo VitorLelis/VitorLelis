@@ -8,7 +8,7 @@
   Came to Portugal to learn and get new expereinces
   
   ## Education
-  Getting my degree in Computer Engineering at University of Minho
+  Getting my degree in Software Engineering at University of Minho
   
   ## Other info
   I'm an Mentor in Coder Dojo Braga where I help kids around 7 and 14 years old to learn how to programm
