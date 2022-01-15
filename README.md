@@ -17,6 +17,6 @@
   
   ## Programming Skills
   + Python
-  + Java
   + C language
   + Haskell
+  + Java
