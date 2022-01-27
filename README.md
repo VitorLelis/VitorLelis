@@ -1,5 +1,7 @@
 # Hello, I'm Vitor
 
+*[LinkedIn](https://www.linkedin.com/in/vitor-lelis-71361420a/)* / <a ref="mailto:vitorll909@gmail.com">Email</a>
+
   ## About me
   Born and raised in Brazil where I lived for 20 years
   
@@ -18,5 +20,3 @@
   + C language
   + Haskell
   + Java
-
-  *[LinkedIn](https://www.linkedin.com/in/vitor-lelis-71361420a/)*
