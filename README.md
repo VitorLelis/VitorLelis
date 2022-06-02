@@ -16,7 +16,4 @@
   I'm also a student athlete for the University of Minho in the swimming team
   
   ## Programming Skills
-  + Python
-  + C language
-  + Haskell
-  + Java
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorLelis)](https://github.com/anuraghazra/github-readme-stats)
