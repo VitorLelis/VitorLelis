@@ -11,7 +11,7 @@
   Getting my degree in Software Engineering 💻 at University of Minho
   
   ## Other info
-  I'm an Mentor in [!Coder Dojo Braga](https://github.com/coderdojobraga) where I help kids around 7 and 14 years old to learn how to programm
+  I'm an Mentor in [Coder Dojo Braga](https://github.com/coderdojobraga) where I help kids around 7 and 14 years old to learn how to programm
   
   I'm also a student athlete for the University of Minho in the swimming team 🏊‍♂️
   
