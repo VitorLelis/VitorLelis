@@ -5,7 +5,7 @@
   ## About me
   Born and raised in Brazil 🇧🇷 where I lived for 20 years
   
-  Came to Portugal 🇵🇹 to learn and get new expereinces
+  Came to Portugal 🇵🇹 to learn and get new experiences
   
   ## Education
   Getting my degree in Software Engineering 💻 at University of Minho
