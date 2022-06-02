@@ -1,4 +1,4 @@
-# Hello, I'm Vitor
+# Hello there, I'm Vitor
 
 *[LinkedIn](https://www.linkedin.com/in/vitor-lelis-71361420a/)*
 
@@ -16,4 +16,9 @@
   I'm also a student athlete for the University of Minho in the swimming team
   
   ## Programming Skills
+  + Python
+  + Haskell
+  + C language
+  + Java
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLelis&&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
