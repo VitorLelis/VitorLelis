@@ -17,6 +17,7 @@
   
   ## Programming Skills
   + Python
+  + SQLite
   + MySQL
   + Haskell
   + C language
