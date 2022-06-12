@@ -17,6 +17,7 @@
   
   ## Programming Skills
   + Python
+  + MySQL
   + Haskell
   + C language
   + Java
