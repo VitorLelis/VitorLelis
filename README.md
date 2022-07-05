@@ -13,6 +13,8 @@
   ## Other info
   I'm an Mentor in [Coder Dojo Braga](https://github.com/coderdojobraga) where I help kids around 7 and 14 years old to learn how to programm
   
+  I've also took part at the students association of Software Engineering, [CeSIUM](https://github.com/cesium), where I enter as a collaborator and lately took the position of Director of the Pedagogical Departament
+  
   I'm also a student athlete for the University of Minho in the swimming team 🏊‍♂️
   
   ## Programming Skills
