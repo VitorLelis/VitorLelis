@@ -19,8 +19,9 @@
   
   ## Programming Skills
   + Python
+  + PostgreSQL
   + SQLite
-  + MySQL
   + Haskell
+  + MySQL
   + C language
   + Java
