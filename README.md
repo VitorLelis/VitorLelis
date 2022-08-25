@@ -1,6 +1,7 @@
 # Hello there 👋 I'm Vitor
 
 [![LinkedIn](https://img.shields.io/badge/-Vitor%20Lelis-0E76A8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitor-lelis-71361420a/)
+[![Email](https://img.shields.io/badge/-VITOR%20LELIS-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorll909@gmail.com)
 
   ## About me
   Born and raised in Brazil 🇧🇷 where I lived for 20 years
