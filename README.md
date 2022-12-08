@@ -29,6 +29,7 @@
   [![Java](https://img.shields.io/badge/-JAVA-F89820?style=for-the-badge)](https://www.java.com/)
   
   ### Libraries/Frameworks
+  [![NumPy](https://img.shields.io/badge/-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
   [![React](https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
   
   ### Databases
