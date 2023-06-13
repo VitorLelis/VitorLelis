@@ -12,7 +12,7 @@
   Getting my degree in Software Engineering 💻 at University of Minho
   
   ## Other info
-  I'm an Mentor in [Coder Dojo Braga](https://github.com/coderdojobraga) where I help kids around 7 and 14 years old to learn how to programm
+  I'm an Mentor in [Coder Dojo Braga](https://github.com/coderdojobraga) where I help kids around 7 and 17 years old to learn how to programm
   
   I've also took part at the students association of Software Engineering, [CeSIUM](https://github.com/cesium), where I enter as a Collaborator, took the position of Director of the Pedagogical Departament and most recently the position of Treasurer
   
