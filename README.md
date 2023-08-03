@@ -25,9 +25,6 @@
   [![Python](https://img.shields.io/badge/-PYTHON-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
   [![Haskell](https://img.shields.io/badge/-HASKELL-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
-  [![C++](https://img.shields.io/badge/-C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)](https://devdocs.io/cpp/)
-  [![C](https://img.shields.io/badge/-C%20LANGUAGE-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://www.cprogramming.com/)
-  [![Java](https://img.shields.io/badge/-JAVA-F89820?style=for-the-badge)](https://www.java.com/)
   
   ### Libraries/Frameworks
   [![NumPy](https://img.shields.io/badge/-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -37,6 +34,3 @@
   ### Databases
   [![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
   [![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-  [![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
-  [![MariaDB](https://img.shields.io/badge/-MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-  
