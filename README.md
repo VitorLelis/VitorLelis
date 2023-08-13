@@ -28,7 +28,6 @@
   
   ### Libraries/Frameworks
   [![NumPy](https://img.shields.io/badge/-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-  [![Matplotlib](https://img.shields.io/badge/-MATPLOTLIB-0056b3?style=for-the-badge&logoColor=white)](https://matplotlib.org/stable/index.html)
   [![React](https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
   
   ### Databases
