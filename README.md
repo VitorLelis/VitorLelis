@@ -27,7 +27,6 @@
   [![Haskell](https://img.shields.io/badge/-HASKELL-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
   
   ### Libraries/Frameworks
-  [![NumPy](https://img.shields.io/badge/-NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
   [![React](https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
   
   ### Databases
