@@ -22,6 +22,7 @@
   
   ### Languages
   
+  [![Elixir](https://img.shields.io/badge/-ELIXIR-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
   [![Python](https://img.shields.io/badge/-PYTHON-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
   [![Haskell](https://img.shields.io/badge/-HASKELL-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
