@@ -13,8 +13,8 @@
   
   ## Other info
   I'm an Mentor in [Coder Dojo Braga](https://github.com/coderdojobraga) where I help kids around 7 and 17 years old to learn how to programm
-  
-  I've also took part at the students association of Software Engineering, [CeSIUM](https://github.com/cesium), where I enter as a Collaborator, took the position of Director of the Pedagogical Departament and most recently the position of Treasurer
+
+  I've also took part at the students association of Software Engineering, [CeSIUM](https://github.com/cesium),  where I enter as a Collaborator, took the position of Director of the Pedagogical Departament, then Treasurer and finally the position of President
   
   Finally, I am an Student Athlete for the University of Minho Swimming Team 🏊‍♂️
   
