@@ -24,13 +24,11 @@
   
   [![Elixir](https://img.shields.io/badge/-ELIXIR-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
   [![Python](https://img.shields.io/badge/-PYTHON-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
   [![Haskell](https://img.shields.io/badge/-HASKELL-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
   
-  ### Libraries/Frameworks
+  ### Libraries, Frameworks and Tools
   [![Jupyter](https://img.shields.io/badge/-JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
   [![Pandas](https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/index.html)
-  [![React](https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
   
   ### Databases
   [![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
