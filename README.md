@@ -27,7 +27,6 @@
   [![Haskell](https://img.shields.io/badge/-HASKELL-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
   
   ### Other Tools
+  [![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
   [![Jupyter](https://img.shields.io/badge/-JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
   [![Pandas](https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/index.html)
-  [![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-  [![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
