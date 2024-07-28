@@ -4,19 +4,17 @@
 [![Email](https://img.shields.io/badge/-VITOR%20LELIS-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorll909@gmail.com)
 
   ## About me
-  Born and raised in Brazil 🇧🇷 where I lived for 20 years
-  
-  Came to Portugal 🇵🇹 to learn and get new experiences
-  
-  ## Education
-  Getting my Masters degree in Software Engineering 💻 at University of Minho
-  
-  ## Other info
-  I'm an Mentor in [Coder Dojo Braga](https://github.com/coderdojobraga) where I help kids around 7 and 17 years old to learn how to programm
+ Born and raised in Brazil, where I lived for 20 years, I moved to Portugal to gain new experiences and pursue my education.
 
-  I've also took part at the students association of Software Engineering, [CeSIUM](https://github.com/cesium),  where I enter as a Collaborator, took the position of Director of the Pedagogical Departament, then Treasurer and finally the position of President
-  
-  Finally, I am an Student Athlete for the University of Minho Swimming Team 🏊‍♂️
+I am currently a Software Engineering student at the University of Minho, where I have acquired a strong foundation in general programming, software development and code testing. I am also pursuing a master's degree with a specialization in Lexical Engineering and Formal Methods of Programming.
+
+My involvement in the student association of Software Engineering, [CeSIUM](https://github.com/cesium), has been extensive. I began as a Collaborator, advanced to Director of the Pedagogical Department, then served as Treasurer and ultimately held the position of President.
+
+In addition, I volunteer at [Coder Dojo Braga](https://github.com/coderdojobraga), where I mentor children aged 7 to 17 in programming and application development.
+
+As a student athlete, I represent the University of Minho Swimming Team, competing at the National University Level.
+
+Feel free to contact me for any collaborations or opportunities!
   
   ## Programming Skills
   
@@ -27,9 +25,7 @@
   [![Haskell](https://img.shields.io/badge/-HASKELL-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
   
   ### Other Tools
-  [![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+  [![Phoenix](https://img.shields.io/badge/-PHOENIX-FD4F00?style=for-the-badge&logo=phoenix-framework&logoColor=white)](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
   [![Docker](https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-  [![Postman](https://img.shields.io/badge/-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
   [![Flask](https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
-  [![Jupyter](https://img.shields.io/badge/-JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
   [![Pandas](https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/index.html)
