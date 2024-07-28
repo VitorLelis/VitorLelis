@@ -12,6 +12,8 @@ My involvement in the student association of Software Engineering, [CeSIUM](http
 
 In addition, I volunteer at [Coder Dojo Braga](https://github.com/coderdojobraga), where I mentor children aged 7 to 17 in programming and application development.
 
+I also completed a summer internship at Yari Labs as a backend developer, gaining valuable industry experience.
+
 As a student athlete, I represent the University of Minho Swimming Team, competing at the National University Level.
 
 Feel free to contact me for any collaborations or opportunities!
