@@ -30,4 +30,3 @@ Feel free to contact me for any collaborations or opportunities!
   [![Phoenix](https://img.shields.io/badge/-PHOENIX-FD4F00?style=for-the-badge&logo=phoenix-framework&logoColor=white)](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
   [![Docker](https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![Flask](https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
-  [![Pandas](https://img.shields.io/badge/-PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/index.html)
