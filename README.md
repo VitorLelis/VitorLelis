@@ -25,8 +25,11 @@ Feel free to contact me for any collaborations or opportunities!
   [![Elixir](https://img.shields.io/badge/-ELIXIR-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
   [![Python](https://img.shields.io/badge/-PYTHON-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![Haskell](https://img.shields.io/badge/-HASKELL-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
+  [![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   
   ### Other Tools
   [![Phoenix](https://img.shields.io/badge/-PHOENIX-FD4F00?style=for-the-badge&logo=phoenix-framework&logoColor=white)](https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html)
   [![Docker](https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![Flask](https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
+  [![React Native](https://img.shields.io/badge/-REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
+  [![Expo](https://img.shields.io/badge/-EXPO-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/accounts/lelis_vitor)
