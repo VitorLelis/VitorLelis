@@ -32,4 +32,4 @@ Feel free to contact me for any collaborations or opportunities!
   [![Docker](https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![Flask](https://img.shields.io/badge/-FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
   [![React Native](https://img.shields.io/badge/-REACT%20NATIVE-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
-  [![Expo](https://img.shields.io/badge/-EXPO-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/accounts/lelis_vitor)
+  [![Expo](https://img.shields.io/badge/-EXPO-000020?style=for-the-badge&logo=expo&logoColor=white)](https://docs.expo.dev/)
