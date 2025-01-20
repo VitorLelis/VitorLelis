@@ -1,4 +1,4 @@
-# Hello there 👋 I'm Vitor
+## Hello there 👋 I'm Vitor
 
 I was born and raised in Brazil, where I spent the first 20 years of my life before moving to Portugal to explore new opportunities and continue my education.
 
